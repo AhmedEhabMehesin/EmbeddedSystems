@@ -1,0 +1,15 @@
+﻿  app.c
+D:\VS Projects\Payment Application\Payment Application\card.h(27,1): warning C4133: 'initializing': incompatible types - from 'ST_cardData_t *' to 'char *'
+D:\VS Projects\Payment Application\Payment Application\card.h(38,1): warning C4133: 'initializing': incompatible types - from 'ST_cardData_t *' to 'char *'
+D:\VS Projects\Payment Application\Payment Application\card.h(56,1): warning C4133: 'initializing': incompatible types - from 'ST_cardData_t *' to 'char *'
+D:\VS Projects\Payment Application\Payment Application\terminal.h(30,1): warning C4133: 'initializing': incompatible types - from 'ST_terminalData_t *' to 'char *'
+D:\VS Projects\Payment Application\Payment Application\terminal.h(45,1): warning C4133: 'initializing': incompatible types - from 'ST_cardData_t *' to 'char *'
+D:\VS Projects\Payment Application\Payment Application\terminal.h(45,1): warning C4133: 'initializing': incompatible types - from 'ST_terminalData_t *' to 'char *'
+D:\VS Projects\Payment Application\Payment Application\terminal.h(64,32): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\VS Projects\Payment Application\Payment Application\terminal.h(53,1): warning C4133: 'initializing': incompatible types - from 'ST_terminalData_t *' to 'float *'
+D:\VS Projects\Payment Application\Payment Application\terminal.h(70,1): warning C4133: 'initializing': incompatible types - from 'ST_terminalData_t *' to 'float *'
+D:\VS Projects\Payment Application\Payment Application\terminal.h(74,1): warning C4133: 'initializing': incompatible types - from 'ST_terminalData_t *' to 'float *'
+D:\VS Projects\Payment Application\Payment Application\server.h(64,1): warning C4133: 'initializing': incompatible types - from 'ST_accountsDB_t *' to 'char *'
+D:\VS Projects\Payment Application\Payment Application\server.h(65,1): warning C4133: 'initializing': incompatible types - from 'ST_cardData_t *' to 'char *'
+D:\VS Projects\Payment Application\Payment Application\app.h(53): warning C4717: 'appStart': recursive on all control paths, function will cause runtime stack overflow
+  Payment Application.vcxproj -> D:\VS Projects\Payment Application\x64\Debug\Payment Application.exe
